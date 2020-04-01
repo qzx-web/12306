@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from selenium import  webdriver
 
-
+#测试一下
 class Qiangpiao(object):
     driver_path = r"C:\Users\qzx\Desktop\pachong\demo\ajax\chromedriver.exe"
     def __init__(self):
